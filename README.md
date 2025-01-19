@@ -32,7 +32,7 @@ data-analytics-bot/
 
 1. Start the web server:
    ```
-   python server.py
+   streamlit run app.py
    ```
 
 2. Access the bot through your web browser at `http://localhost:8000`.
@@ -52,8 +52,7 @@ data-analytics-bot/
   - Line graphs
   - Histograms
   - Box plots
-  - Heat maps
-  - Pair plots
+   
   
 - **AI-Powered Chat**:
   - Natural language queries
